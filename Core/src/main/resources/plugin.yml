@@ -1,0 +1,5 @@
+name: PixelMotdBukkit
+version: ${project.version}
+main: dev.mruniverse.pixelmotdbukkit.core.PixelMotdBukkit
+api-version: 1.16
+authors: [ MrUniverse44, Sebastnchan ]
